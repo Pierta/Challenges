@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
 
-namespace ReflectionCloner.Challenge
+namespace ReflectionCloner
 {
     public interface ICloningService
     {

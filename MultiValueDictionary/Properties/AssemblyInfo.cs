@@ -1,15 +1,15 @@
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ReflectionCloner.Challenge")]
+[assembly: AssemblyTitle("MultiValueDictionary")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ReflectionCloner.Challenge")]
+[assembly: AssemblyProduct("MultiValueDictionary")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9b339c65-2bd2-4e26-bf67-f20c73d7a7b2")]
+[assembly: Guid("0dc1048e-84c4-44c4-ad9b-f31800f554c1")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCloner.Challenge", "ReflectionCloner.Challenge\ReflectionCloner.Challenge.csproj", "{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCloner", "ReflectionCloner\ReflectionCloner.csproj", "{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiValueDictionary", "MultiValueDictionary\MultiValueDictionary.csproj", "{0DC1048E-84C4-44C4-AD9B-F31800F554C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC1048E-84C4-44C4-AD9B-F31800F554C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC1048E-84C4-44C4-AD9B-F31800F554C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC1048E-84C4-44C4-AD9B-F31800F554C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC1048E-84C4-44C4-AD9B-F31800F554C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

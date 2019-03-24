@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B339C65-2BD2-4E26-BF67-F20C73D7A7B2}</ProjectGuid>
+    <ProjectGuid>{0DC1048E-84C4-44C4-AD9B-F31800F554C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HackerRank.Test</RootNamespace>
-    <AssemblyName>HackerRank.Test</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>MultiValueDictionary</RootNamespace>
+    <AssemblyName>MultiValueDictionary</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
